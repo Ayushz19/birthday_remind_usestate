@@ -1,11 +1,12 @@
 import React from 'react';
 
-const list = () => {
+const List = () => {
   return (
     <div>
+<h3>List Components</h3>
       
     </div>
   );
 }
 
-export default list;
+export default List;
